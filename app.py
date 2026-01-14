@@ -353,7 +353,7 @@ async def RedZed_SendInv(bot_uid, uid, key, iv):
                     2: 159, 
                     4: "y[WW", 
                     6: 11, 
-                    8: "1.118.1", 
+                    8: "2.121.2", 
                     9: 3, 
                     10: 1
                 }, 
